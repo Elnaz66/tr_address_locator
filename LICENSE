@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 MIT License
 
 Copyright (c) 2025 Elnaz66
+=======
+This code was developed by Elnaz Najatishendi as part of her PhD research and finalized on May, 2024.
+It has been tested on over 1,800 records, achieving an accuracy rate of more than 98%, and is intended 
+for publication in an upcoming scientific article.
+For inquiries or to report any bugs, please feel free to contact the author at nejati.elnaz@gmail.com.
+
+---
+
+MIT License
+
+Copyright (c) 2025 [Elnaz Najatishendi(paşa)]
+>>>>>>> 7d3301b (Initial commit with license and project files)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

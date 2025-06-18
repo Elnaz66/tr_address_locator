@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: tr_address_locator
+Version: 0.1
+Summary: Türkiye adreslerini koordinatlandırmak için Python kütüphanesi
+Home-page: https://github.com/kullanici_adi/tr_address_locator
+Author: Senin İsmin
+Author-email: email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: geopy
+Requires-Dist: openpyxl
+
+# tr_address_locator
+
+TГјrkiye'deki il, ilГ§e, kГ¶y ve mahalle adreslerini kullanarak koordinat (enlem, boylam) bulmaya yarayan Python kГјtГјphanesi.
+
+---
+
+## Kurulum
+
+Projeyi klonladД±ktan veya indirdikten sonra:
+
+```bash
+pip install .
