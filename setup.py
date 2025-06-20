@@ -9,7 +9,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url="https://github.com/kullanici_adi/tr_address_locator",
-    packages=find_packages(),
+    packages=['tr_address_locator'],
     include_package_data=True,
     install_requires=[
         "pandas",
