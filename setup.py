@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="tr_address_locator",
     version="0.1",
-    author="Senin İsmin",
-    author_email="email@example.com",
+    author="Elnaz Najatishendi",
+    author_email="nejati.elnaz@gmail.com",
     description="Türkiye adreslerini koordinatlandırmak için Python kütüphanesi",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
